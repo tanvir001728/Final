@@ -1,0 +1,63 @@
+.add-modal-title {
+    margin: 0;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    word-wrap: break-word;
+}
+
+.form-body {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-basis: auto;
+}
+
+h1 {
+    font-size: 1em;
+    color: #28282B;
+}
+
+.form-group {
+    margin: 1%;
+    padding: 1%;
+}
+
+.form-group label {
+    font-size: 0.8em;
+    color: #28282B;
+}
+
+.form-group.modal-button {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+.modal-area {
+    position: relative;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px -4px rgb(0 0 0 / 12%), 0 6px 16px 0 rgb(0 0 0 / 8%), 0 9px 28px 8px rgb(0 0 0 / 5%);
+    pointer-events: auto;
+}
+
+form-body.form-group.form-control {
+    border-radius: 20% !important;
+    padding: 20px;
+    border-color: #28282B;
+}
+
+.edit-modal-area {
+    border-radius: 5%;
+    width: 60vw;
+}
+
+.form-ip-box {
+    margin: 2px;
+    border-radius: 5%;
+    padding: 2px;
+}

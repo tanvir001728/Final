@@ -1,0 +1,58 @@
+.med-heading {
+    font-family:"Bahnschrift Regular",sans-serif;
+    background-color:rgba(54,76,99,.25);
+    padding: 10px;
+  }
+  .paragraph{
+    font-family: "Arial, Helvetica, sans-serif";
+    margin-left:20px;
+    margin-right:20px;
+  }
+  .card{
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid black;
+    box-shadow: 0 0 5px;
+    width: 250px;
+    margin: 20px;
+  }
+  .card-body{
+    font-family: 'Arial, Helvetica, sans-serif' ;
+    font-size: 20px;
+  }
+  .card-title{
+    font-family: "Arial, Helvetica, sans-serif";
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+  }
+  .description{
+    font-family: "Bahnschrift Regular",sans-serif;
+    color: #3F5264;
+    background: inherit;
+    font-size: 17px;
+    padding: 10px 8px;
+  }
+  .home-card{
+    text-align: center;
+  }
+  .home-card > .card{
+    display: inline-block;
+  }
+  .medicine{
+    margin-left: 90px;
+    margin-top: 10px;
+    margin-right: 90px;
+    margin-bottom: 10px;
+  }
+  .medicine-description{
+    font-family: "Bahnschrift Regular",sans-serif;;
+  }
+  
+  .name{
+    font-size: 27px;
+  }
+  .medicine-attr{
+    color: #828282;
+    font-family: "Bahnschrift Regular",sans-serif;
+  }

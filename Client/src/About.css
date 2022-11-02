@@ -1,0 +1,60 @@
+.heading{
+    font-family: "Arial, Helvetica, sans-serif";
+    margin-left:30px;
+    margin-right:30px;
+    color: white;
+}
+.paragraph{
+    font-family:"Bahnschrift Regular",sans-serif;
+    margin-left:30px;
+    margin-right:30px;
+    font-size: 1.3rem;
+
+}
+.para{
+    text-transform: capitalize;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+
+}
+.jumbotron{
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    background-image: url('https://wallpapertag.com/wallpaper/full/c/5/7/150412-free-download-chemistry-background-1920x1200-notebook.jpg');
+    background-size: cover;
+    color: white;
+    align-items: center;
+}
+
+.image{
+    margin-left:0px;
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('https://wallpapertag.com/wallpaper/full/c/5/7/150412-free-download-chemistry-background-1920x1200-notebook.jpg');
+    background-size: cover;
+    /*border: 1px solid black;*/
+    color: white;
+    width: 1420px;
+    height: 500px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    filter: blur(7px);
+    -webkit-filter: blur(7px);
+  }
+  .card-text{
+    font-family:"Bahnschrift Regular",sans-serif;
+    padding-top: 20px;
+    color: white;
+    z-index: 2;
+    margin-left: 60px;
+    margin-right: 60px;
+    /*border: 1px solid black;*/
+
+  }
